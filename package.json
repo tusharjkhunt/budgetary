@@ -1,0 +1,24 @@
+{
+  "name": "budgetary",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharjkhunt/budgetary.git"
+  },
+  "author": "Tushar Khunt",
+  "license": "ISC",
+  "homepage": "https://tusharjkhunt.github.io/budgetary",
+  "bugs": {
+    "url": "https://github.com/tusharjkhunt/budgetary/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
